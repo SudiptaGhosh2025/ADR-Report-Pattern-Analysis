@@ -89,4 +89,46 @@ Note: A sample dataset is included in the /data folder.
 ---
 
 ## 📎 Folder Structure
+Folder Structure
 
+ADR-Report-Analysis/
+├── data/
+│ └── sample_adr_data.csv
+├── notebooks/
+│ └── adr_analysis.ipynb
+├── scripts/
+│ └── clean_data.py
+├── outputs/
+│ └── adr_trend_plot.png
+│ └── drug_top10_bar.png
+│ └── heatmap_region.png
+├── README.md
+└── requirements.txt
+
+🚀 Getting Started
+
+To run this project locally:
+
+Clone this repo:
+
+git clone https://github.com/SudiptaGhosh2025/ADR-Report-Analysis.git
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Launch Jupyter Notebook:
+
+jupyter notebook notebooks/adr_analysis.ipynb
+
+🧾 License
+
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+📬 Contact
+
+Sudipta Ghosh | Pharmacovigilance Associate | Data Analyst
+
+LinkedIn: https://www.linkedin.com/in/sudipta-ghosh-36a94aab/
+
+Email: sudipta.ghoshdata@gmail.com
