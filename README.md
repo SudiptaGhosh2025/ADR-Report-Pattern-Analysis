@@ -105,6 +105,8 @@ ADR-Report-Analysis/
 ├── README.md
 └── requirements.txt
 
+---
+
 🚀 Getting Started
 
 To run this project locally:
@@ -121,11 +123,13 @@ Launch Jupyter Notebook:
 
 jupyter notebook notebooks/adr_analysis.ipynb
 
+---
 
 🧾 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 
+---
 
 📬 Contact
 
