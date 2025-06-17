@@ -109,7 +109,7 @@ ADR-Report-Analysis/
 
 To run this project locally:
 
-Clone this repo:
+Clone this repository:
 
 git clone https://github.com/SudiptaGhosh2025/ADR-Report-Analysis.git
 
@@ -121,14 +121,14 @@ Launch Jupyter Notebook:
 
 jupyter notebook notebooks/adr_analysis.ipynb
 
+
 🧾 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 
+
 📬 Contact
 
 Sudipta Ghosh | Pharmacovigilance Associate | Data Analyst
-
 LinkedIn: https://www.linkedin.com/in/sudipta-ghosh-36a94aab/
-
 Email: sudipta.ghoshdata@gmail.com
