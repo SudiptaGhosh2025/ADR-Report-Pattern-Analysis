@@ -102,17 +102,29 @@ Note: A sample dataset is included in the /data folder.
 Folder Structure
 
 ADR-Report-Analysis/
+
 ├── data/
+
 │ └── sample_adr_data.csv
+
 ├── notebooks/
+
 │ └── adr_analysis.ipynb
+
 ├── scripts/
+
 │ └── clean_data.py
+
 ├── outputs/
+
 │ └── adr_trend_plot.png
+
 │ └── drug_top10_bar.png
+
 │ └── heatmap_region.png
+
 ├── README.md
+
 └── requirements.txt
 
 ---
