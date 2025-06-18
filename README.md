@@ -144,5 +144,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 📬 Contact
 
 Sudipta Ghosh | Pharmacovigilance Associate | Data Analyst
+
 LinkedIn: https://www.linkedin.com/in/sudipta-ghosh-36a94aab/
+
 Email: sudipta.ghoshdata@gmail.com
