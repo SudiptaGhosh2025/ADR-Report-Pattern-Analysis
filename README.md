@@ -14,7 +14,7 @@ Findings (Example)
 Folder Structure
 ---
 
-## 🧠 Objective
+## Objective
 
 To explore and visualize adverse drug reaction data in order to:
 - Identify trends in ADR reporting
