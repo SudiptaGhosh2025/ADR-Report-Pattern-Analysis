@@ -9,11 +9,10 @@ This project analyzes patterns in Adverse Drug Reaction (ADR) reports submitted 
 - [Dataset](#dataset)
 - [Tools & Libraries](#Tools-&-Libraries)
 - [KeySteps](#Key-Steps)
-Tools & Libraries
-Key Steps
-Sample Visualizations
-Findings (Example)
-Folder Structure
+- [Sample Visualizations](#Sample-Visualizations)
+- [Findings (Example)](#Findings (Example))
+- [Folder Structure](#Folder-Structure)
+
 ---
 
 ## Objective
@@ -42,7 +41,7 @@ Note: A sample dataset is included in the /data folder.
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - Python 3.9+
 - pandas
@@ -54,7 +53,7 @@ Note: A sample dataset is included in the /data folder.
 
 ---
 
-## 🔍 Key Steps
+## Key Steps
 
 1. Data Cleaning:
    - Handling missing values
@@ -78,7 +77,7 @@ Note: A sample dataset is included in the /data folder.
 
 ---
 
-## 📈 Sample Visualizations
+## Sample Visualizations
 
 - 📌 ADR Trend Over Time
 - 🧪 Top 10 Suspected Drugs
@@ -89,7 +88,7 @@ Note: A sample dataset is included in the /data folder.
 
 ---
 
-## 📌 Findings (Example)
+## Findings (Example)
 
 - A steady increase in ADR reporting over 5 years
 - Female patients report slightly more ADRs compared to males
@@ -100,7 +99,7 @@ Note: A sample dataset is included in the /data folder.
 
 ---
 
-## 📎 Folder Structure
+## Folder Structure
 Folder Structure
 
 ADR-Report-Analysis/
