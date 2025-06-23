@@ -7,10 +7,10 @@ This project analyzes patterns in Adverse Drug Reaction (ADR) reports submitted 
 
 - [Objective](#objective)
 - [Dataset](#dataset)
-- [Tools & Libraries](#tools-&-libraries)
+- [Tools and Libraries](#tools-and-libraries)
 - [Key Steps](#key-steps)
 - [Sample Visualizations](#sample-visualizations)
-- [Findings (Example)](#findings (example))
+- [Findings (Example)](#findings)
 - [Folder Structure](#folder-structure)
 
 ---
@@ -41,7 +41,7 @@ Note: A sample dataset is included in the /data folder.
 
 ---
 
-## Tools & Libraries
+## Tools and Libraries
 
 - Python 3.9+
 - pandas
