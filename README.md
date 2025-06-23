@@ -81,15 +81,18 @@ Note: A sample dataset is included in the /data folder.
 
 - 📌 ADR Trend Over Time
  ![Top Drugs](outputs/adr_reports_per_year.png)
+
 - 🧪 Top 10 Suspected Drugs
-### 📊 Top 10 Suspected Drugs
 ![Top Drugs](outputs/top_10_suspected_drugs.png)
 
 - 🗺️ Heatmap of ADRs by Country
 ![Heat Map](outputs/improved_adr_heatmap_country_year.png)
+
 - 🚻 Gender-wise ADR Distribution
 ![Gender-wise ADR Distribution](outputs/gender_distribution.png)
 
+- 🚻 Outcome distribution
+![outcome_distribution_pie](outputs/outcome_distribution_pie.png)
 
 ---
 
