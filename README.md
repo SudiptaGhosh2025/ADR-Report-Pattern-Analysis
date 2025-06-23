@@ -82,7 +82,7 @@ Note: A sample dataset is included in the /data folder.
 - 📌 ADR Trend Over Time
 - 🧪 Top 10 Suspected Drugs
 ### 📊 Top 10 Suspected Drugs
-![Top Drugs](top_10_suspected_drugs.png)
+![Top Drugs](outputs/top_10_suspected_drugs.png)
 
 - 🗺️ Heatmap of ADRs by Country
 - 🚻 Gender-wise ADR Distribution
