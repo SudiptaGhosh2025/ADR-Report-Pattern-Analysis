@@ -80,6 +80,7 @@ Note: A sample dataset is included in the /data folder.
 ## Sample Visualizations
 
 - 📌 ADR Trend Over Time
+ ![Top Drugs](outputs/adr_reports_per_year.png.png)
 - 🧪 Top 10 Suspected Drugs
 ### 📊 Top 10 Suspected Drugs
 ![Top Drugs](outputs/top_10_suspected_drugs.png)
