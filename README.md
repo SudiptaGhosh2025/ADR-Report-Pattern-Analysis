@@ -23,7 +23,7 @@ To explore and visualize adverse drug reaction data in order to:
 
 ---
 
-## 🗂️ Dataset
+## 🗂️Dataset
 
 - Source: Public pharmacovigilance or FAERS dataset (can be anonymized or synthetic if required)
 - Format: CSV
