@@ -85,13 +85,14 @@ Note: A sample dataset is included in the /data folder.
 ![Top Drugs](outputs/top_10_suspected_drugs.png)
 
 - 🗺️ Heatmap of ADRs by Country
+![Heat Map](outputs/improved_adr_heatmap_country_year.png)
 - 🚻 Gender-wise ADR Distribution
-
+![Gender-wise ADR Distribution](outputs/gender_distribution.png)
 (All charts available in the /outputs folder and notebooks)
 
 ---
 
-## Findings (Example)
+## Findings
 
 - A steady increase in ADR reporting over 5 years
 - Female patients report slightly more ADRs compared to males
