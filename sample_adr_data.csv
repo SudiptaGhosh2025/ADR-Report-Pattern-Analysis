@@ -1,0 +1,501 @@
+Report_ID,Patient_Age,Gender,Suspected_Drug,Reaction_Description,Report_Date,Outcome,Country
+RPT1000,61,Male,Omeprazole,Insomnia,2020-09-29,Recovered,South Africa
+RPT1001,24,Other,Ibuprofen,Headache,2021-01-11,Hospitalization,Japan
+RPT1002,81,Male,Lisinopril,Fever,2024-03-20,Unknown,Brazil
+RPT1003,70,Male,Ibuprofen,Insomnia,2025-01-19,Hospitalization,Germany
+RPT1004,30,Female,Ciprofloxacin,Allergic reaction,2022-01-19,Not Recovered,UK
+RPT1005,84,Female,Ibuprofen,Insomnia,2023-08-05,Not Recovered,Germany
+RPT1006,84,Other,Ibuprofen,Fatigue,2021-09-04,Not Recovered,Canada
+RPT1007,33,Female,Lisinopril,Headache,2023-05-21,Recovered,USA
+RPT1008,12,Other,Paracetamol,Allergic reaction,2021-03-28,Not Recovered,Canada
+RPT1009,31,Female,Atorvastatin,Diarrhea,2022-06-16,Unknown,USA
+RPT1010,62,Male,Azithromycin,Allergic reaction,2024-11-29,Hospitalization,India
+RPT1011,11,Other,Azithromycin,Fatigue,2023-03-11,Death,Germany
+RPT1012,39,Other,Amoxicillin,Fever,2022-10-02,Unknown,USA
+RPT1013,47,Male,Lisinopril,Headache,2023-12-02,Unknown,France
+RPT1014,11,Other,Amoxicillin,Diarrhea,2021-12-29,Not Recovered,Japan
+RPT1015,73,Other,Omeprazole,Fatigue,2022-10-25,Recovered,USA
+RPT1016,69,Female,Omeprazole,Fatigue,2025-06-13,Hospitalization,USA
+RPT1017,30,Other,Amoxicillin,Nausea,2025-06-10,Recovered,Japan
+RPT1018,42,Male,Lisinopril,Headache,2022-01-31,Hospitalization,Germany
+RPT1019,85,Female,Amoxicillin,Allergic reaction,2024-05-22,Hospitalization,Germany
+RPT1020,67,Female,Azithromycin,Rash,2024-05-24,Recovered,Japan
+RPT1021,31,Male,Simvastatin,Fever,2021-03-24,Unknown,Canada
+RPT1022,58,Male,Metformin,Rash,2024-06-20,Hospitalization,France
+RPT1023,68,Female,Ibuprofen,Allergic reaction,2022-01-14,Recovered,South Africa
+RPT1024,51,Other,Metformin,Allergic reaction,2022-07-01,Hospitalization,Brazil
+RPT1025,69,Female,Lisinopril,Headache,2023-09-03,Death,France
+RPT1026,89,Male,Metformin,Allergic reaction,2024-11-30,Unknown,Germany
+RPT1027,24,Female,Omeprazole,Nausea,2023-04-28,Not Recovered,South Africa
+RPT1028,71,Male,Ciprofloxacin,Diarrhea,2022-12-21,Hospitalization,India
+RPT1029,71,Female,Ibuprofen,Allergic reaction,2022-07-17,Death,UK
+RPT1030,56,Other,Atorvastatin,Rash,2022-01-18,Not Recovered,USA
+RPT1031,71,Female,Lisinopril,Allergic reaction,2020-08-24,Not Recovered,Japan
+RPT1032,60,Female,Ibuprofen,Nausea,2023-05-23,Hospitalization,Japan
+RPT1033,64,Male,Metformin,Insomnia,2022-07-20,Recovered,USA
+RPT1034,73,Male,Omeprazole,Insomnia,2022-12-19,Hospitalization,UK
+RPT1035,12,Male,Paracetamol,Fatigue,2024-08-01,Death,Brazil
+RPT1036,60,Female,Simvastatin,Fever,2023-04-03,Not Recovered,UK
+RPT1037,16,Other,Atorvastatin,Dizziness,2025-02-24,Hospitalization,South Africa
+RPT1038,30,Male,Simvastatin,Diarrhea,2024-09-25,Recovered,UK
+RPT1039,82,Male,Ibuprofen,Abdominal pain,2021-01-18,Hospitalization,South Africa
+RPT1040,48,Female,Omeprazole,Fatigue,2024-07-20,Unknown,UK
+RPT1041,27,Male,Omeprazole,Fever,2022-08-02,Recovered,Brazil
+RPT1042,13,Other,Metformin,Insomnia,2023-07-16,Death,Brazil
+RPT1043,69,Other,Azithromycin,Rash,2023-10-25,Not Recovered,Germany
+RPT1044,23,Male,Metformin,Abdominal pain,2021-01-19,Hospitalization,USA
+RPT1045,18,Male,Azithromycin,Fever,2022-01-26,Recovered,Brazil
+RPT1046,62,Female,Azithromycin,Fever,2021-02-26,Unknown,South Africa
+RPT1047,11,Other,Atorvastatin,Fatigue,2023-12-19,Recovered,Brazil
+RPT1048,69,Other,Metformin,Abdominal pain,2021-05-06,Unknown,Germany
+RPT1049,80,Male,Paracetamol,Headache,2022-08-06,Death,Japan
+RPT1050,53,Female,Amoxicillin,Dizziness,2021-11-08,Not Recovered,South Africa
+RPT1051,17,Other,Amoxicillin,Headache,2022-05-17,Death,Germany
+RPT1052,56,Other,Metformin,Abdominal pain,2023-09-29,Hospitalization,Canada
+RPT1053,44,Female,Metformin,Headache,2025-02-19,Recovered,Canada
+RPT1054,87,Female,Simvastatin,Nausea,2022-09-03,Unknown,India
+RPT1055,45,Other,Atorvastatin,Insomnia,2021-09-27,Unknown,UK
+RPT1056,59,Other,Metformin,Nausea,2020-10-23,Recovered,USA
+RPT1057,13,Female,Simvastatin,Allergic reaction,2021-06-10,Recovered,Australia
+RPT1058,11,Other,Azithromycin,Headache,2022-01-17,Hospitalization,France
+RPT1059,15,Male,Omeprazole,Allergic reaction,2025-02-06,Death,Germany
+RPT1060,63,Male,Omeprazole,Rash,2023-01-19,Unknown,Japan
+RPT1061,13,Female,Azithromycin,Diarrhea,2023-10-06,Hospitalization,France
+RPT1062,63,Female,Lisinopril,Rash,2021-10-07,Death,Japan
+RPT1063,72,Female,Simvastatin,Abdominal pain,2020-12-12,Hospitalization,France
+RPT1064,27,Male,Simvastatin,Fever,2020-12-11,Unknown,Germany
+RPT1065,53,Other,Azithromycin,Insomnia,2023-04-26,Recovered,Australia
+RPT1066,43,Male,Paracetamol,Headache,2023-10-09,Recovered,France
+RPT1067,83,Other,Ciprofloxacin,Fatigue,2023-03-11,Death,Germany
+RPT1068,71,Male,Ibuprofen,Diarrhea,2021-08-13,Not Recovered,Brazil
+RPT1069,23,Other,Azithromycin,Dizziness,2021-12-03,Death,Australia
+RPT1070,57,Male,Metformin,Dizziness,2024-12-28,Not Recovered,South Africa
+RPT1071,24,Female,Metformin,Dizziness,2024-11-29,Hospitalization,Japan
+RPT1072,81,Male,Atorvastatin,Headache,2020-09-19,Hospitalization,Canada
+RPT1073,87,Other,Azithromycin,Dizziness,2023-12-07,Unknown,UK
+RPT1074,71,Male,Atorvastatin,Nausea,2022-05-06,Not Recovered,Canada
+RPT1075,49,Male,Azithromycin,Diarrhea,2023-09-02,Unknown,Australia
+RPT1076,89,Male,Simvastatin,Nausea,2022-08-21,Recovered,South Africa
+RPT1077,62,Female,Ibuprofen,Fever,2022-11-16,Not Recovered,Japan
+RPT1078,33,Male,Simvastatin,Diarrhea,2021-10-29,Death,South Africa
+RPT1079,35,Female,Ciprofloxacin,Nausea,2023-02-18,Recovered,France
+RPT1080,69,Female,Omeprazole,Diarrhea,2024-12-12,Recovered,Japan
+RPT1081,50,Male,Amoxicillin,Fever,2025-05-25,Death,France
+RPT1082,38,Male,Azithromycin,Allergic reaction,2024-11-11,Recovered,Germany
+RPT1083,24,Male,Ciprofloxacin,Headache,2022-03-12,Not Recovered,Australia
+RPT1084,54,Other,Omeprazole,Headache,2023-01-16,Unknown,Germany
+RPT1085,74,Male,Lisinopril,Dizziness,2025-04-24,Recovered,India
+RPT1086,80,Female,Ibuprofen,Rash,2022-05-17,Not Recovered,South Africa
+RPT1087,18,Male,Atorvastatin,Dizziness,2022-03-14,Hospitalization,France
+RPT1088,10,Other,Atorvastatin,Abdominal pain,2020-09-02,Not Recovered,Brazil
+RPT1089,17,Male,Simvastatin,Nausea,2024-02-24,Unknown,Germany
+RPT1090,72,Other,Metformin,Diarrhea,2021-07-01,Not Recovered,India
+RPT1091,20,Other,Omeprazole,Rash,2024-03-17,Death,USA
+RPT1092,17,Male,Lisinopril,Fever,2024-02-03,Unknown,Canada
+RPT1093,44,Female,Ciprofloxacin,Abdominal pain,2024-10-20,Hospitalization,Japan
+RPT1094,44,Other,Ibuprofen,Fever,2023-01-21,Death,India
+RPT1095,42,Male,Omeprazole,Headache,2021-02-24,Not Recovered,Australia
+RPT1096,14,Male,Lisinopril,Headache,2023-04-03,Unknown,Germany
+RPT1097,50,Female,Amoxicillin,Dizziness,2024-04-29,Hospitalization,Australia
+RPT1098,37,Other,Azithromycin,Nausea,2023-04-18,Death,Canada
+RPT1099,16,Other,Atorvastatin,Rash,2020-09-01,Hospitalization,Brazil
+RPT1100,82,Male,Ciprofloxacin,Insomnia,2024-10-09,Not Recovered,South Africa
+RPT1101,81,Male,Atorvastatin,Abdominal pain,2024-08-28,Hospitalization,South Africa
+RPT1102,21,Female,Ciprofloxacin,Abdominal pain,2023-02-24,Recovered,Australia
+RPT1103,43,Female,Simvastatin,Dizziness,2023-12-13,Death,France
+RPT1104,42,Other,Metformin,Headache,2023-10-03,Hospitalization,Brazil
+RPT1105,57,Other,Ciprofloxacin,Dizziness,2025-01-07,Not Recovered,South Africa
+RPT1106,32,Male,Atorvastatin,Diarrhea,2025-01-10,Not Recovered,Brazil
+RPT1107,71,Other,Simvastatin,Rash,2023-06-17,Hospitalization,India
+RPT1108,46,Female,Ciprofloxacin,Nausea,2023-05-27,Not Recovered,Brazil
+RPT1109,53,Female,Amoxicillin,Allergic reaction,2024-07-19,Unknown,UK
+RPT1110,44,Male,Metformin,Fatigue,2020-06-24,Unknown,Canada
+RPT1111,74,Female,Ciprofloxacin,Fatigue,2023-06-01,Unknown,South Africa
+RPT1112,56,Female,Simvastatin,Dizziness,2023-04-01,Recovered,Brazil
+RPT1113,87,Female,Omeprazole,Diarrhea,2024-10-27,Hospitalization,Australia
+RPT1114,12,Female,Paracetamol,Rash,2023-12-07,Recovered,USA
+RPT1115,10,Male,Lisinopril,Insomnia,2021-05-01,Not Recovered,UK
+RPT1116,14,Male,Paracetamol,Fatigue,2021-05-15,Recovered,UK
+RPT1117,23,Other,Paracetamol,Rash,2022-10-23,Not Recovered,France
+RPT1118,36,Female,Ibuprofen,Nausea,2024-05-13,Not Recovered,Brazil
+RPT1119,18,Other,Amoxicillin,Fever,2020-06-22,Death,France
+RPT1120,88,Male,Omeprazole,Diarrhea,2023-04-21,Unknown,France
+RPT1121,24,Male,Azithromycin,Headache,2024-05-23,Not Recovered,USA
+RPT1122,51,Male,Ciprofloxacin,Rash,2021-03-21,Death,India
+RPT1123,86,Male,Lisinopril,Nausea,2021-11-20,Unknown,Brazil
+RPT1124,60,Male,Metformin,Insomnia,2024-10-12,Not Recovered,Germany
+RPT1125,72,Male,Omeprazole,Allergic reaction,2023-12-10,Not Recovered,South Africa
+RPT1126,61,Male,Atorvastatin,Headache,2023-10-24,Recovered,France
+RPT1127,13,Female,Azithromycin,Allergic reaction,2025-04-12,Recovered,Canada
+RPT1128,32,Other,Ibuprofen,Insomnia,2024-08-23,Unknown,Japan
+RPT1129,24,Male,Ibuprofen,Nausea,2021-02-06,Not Recovered,Canada
+RPT1130,52,Female,Omeprazole,Fatigue,2021-04-26,Hospitalization,USA
+RPT1131,38,Female,Simvastatin,Allergic reaction,2023-07-11,Recovered,USA
+RPT1132,45,Other,Paracetamol,Headache,2023-03-03,Unknown,Australia
+RPT1133,22,Male,Atorvastatin,Dizziness,2024-08-15,Not Recovered,India
+RPT1134,41,Other,Ibuprofen,Abdominal pain,2023-10-12,Not Recovered,South Africa
+RPT1135,80,Male,Lisinopril,Rash,2021-11-04,Hospitalization,France
+RPT1136,68,Female,Ibuprofen,Fatigue,2022-08-11,Unknown,Canada
+RPT1137,37,Female,Metformin,Allergic reaction,2023-06-13,Not Recovered,Japan
+RPT1138,75,Female,Ciprofloxacin,Fever,2022-10-28,Recovered,USA
+RPT1139,51,Female,Ibuprofen,Rash,2022-02-18,Hospitalization,USA
+RPT1140,54,Other,Metformin,Dizziness,2020-10-19,Unknown,India
+RPT1141,71,Male,Omeprazole,Insomnia,2022-10-02,Hospitalization,Japan
+RPT1142,66,Male,Omeprazole,Abdominal pain,2024-07-02,Recovered,Japan
+RPT1143,15,Other,Azithromycin,Nausea,2021-03-27,Unknown,India
+RPT1144,37,Male,Ibuprofen,Dizziness,2023-11-13,Hospitalization,USA
+RPT1145,37,Female,Lisinopril,Dizziness,2023-07-28,Death,South Africa
+RPT1146,53,Male,Ibuprofen,Insomnia,2021-09-23,Recovered,Brazil
+RPT1147,39,Female,Lisinopril,Diarrhea,2022-10-04,Recovered,Brazil
+RPT1148,71,Other,Amoxicillin,Insomnia,2021-01-21,Recovered,India
+RPT1149,84,Male,Azithromycin,Diarrhea,2020-09-23,Death,Japan
+RPT1150,71,Other,Amoxicillin,Diarrhea,2021-03-27,Death,France
+RPT1151,10,Male,Ibuprofen,Fatigue,2021-09-16,Not Recovered,India
+RPT1152,36,Female,Azithromycin,Fatigue,2021-12-21,Hospitalization,South Africa
+RPT1153,71,Other,Amoxicillin,Headache,2021-10-24,Not Recovered,India
+RPT1154,86,Male,Paracetamol,Allergic reaction,2023-12-18,Hospitalization,UK
+RPT1155,12,Female,Ibuprofen,Allergic reaction,2023-06-19,Death,Canada
+RPT1156,79,Other,Amoxicillin,Nausea,2024-03-11,Death,Japan
+RPT1157,81,Other,Paracetamol,Allergic reaction,2024-03-06,Not Recovered,Australia
+RPT1158,36,Male,Paracetamol,Fatigue,2020-06-28,Unknown,Australia
+RPT1159,18,Male,Omeprazole,Headache,2021-09-06,Not Recovered,Japan
+RPT1160,71,Male,Ibuprofen,Headache,2022-08-12,Hospitalization,South Africa
+RPT1161,46,Female,Paracetamol,Diarrhea,2025-03-10,Not Recovered,UK
+RPT1162,60,Male,Omeprazole,Insomnia,2022-12-11,Recovered,UK
+RPT1163,53,Other,Amoxicillin,Nausea,2021-09-02,Hospitalization,USA
+RPT1164,33,Other,Metformin,Diarrhea,2024-09-17,Hospitalization,Canada
+RPT1165,88,Male,Ibuprofen,Insomnia,2021-09-16,Unknown,Brazil
+RPT1166,68,Male,Azithromycin,Allergic reaction,2021-11-18,Death,Germany
+RPT1167,41,Other,Lisinopril,Diarrhea,2022-11-24,Hospitalization,South Africa
+RPT1168,61,Female,Lisinopril,Rash,2023-09-16,Death,Germany
+RPT1169,71,Male,Amoxicillin,Allergic reaction,2021-02-07,Not Recovered,Germany
+RPT1170,67,Male,Simvastatin,Insomnia,2023-05-26,Recovered,Japan
+RPT1171,61,Other,Simvastatin,Nausea,2022-05-22,Unknown,Australia
+RPT1172,21,Male,Amoxicillin,Insomnia,2023-05-18,Death,Australia
+RPT1173,48,Female,Paracetamol,Diarrhea,2023-10-19,Hospitalization,Brazil
+RPT1174,11,Other,Ibuprofen,Diarrhea,2020-12-28,Death,Japan
+RPT1175,12,Male,Lisinopril,Dizziness,2023-01-12,Hospitalization,Germany
+RPT1176,65,Other,Lisinopril,Nausea,2022-04-14,Death,France
+RPT1177,68,Male,Paracetamol,Fever,2024-10-02,Hospitalization,Australia
+RPT1178,11,Male,Lisinopril,Allergic reaction,2024-12-26,Not Recovered,South Africa
+RPT1179,11,Male,Azithromycin,Headache,2022-12-21,Hospitalization,South Africa
+RPT1180,63,Female,Ibuprofen,Nausea,2021-10-20,Hospitalization,USA
+RPT1181,10,Female,Ciprofloxacin,Headache,2025-06-12,Recovered,India
+RPT1182,28,Other,Lisinopril,Nausea,2023-10-11,Hospitalization,France
+RPT1183,11,Male,Amoxicillin,Nausea,2023-08-10,Recovered,Australia
+RPT1184,62,Male,Azithromycin,Insomnia,2021-06-25,Unknown,UK
+RPT1185,53,Female,Lisinopril,Nausea,2021-10-06,Recovered,Australia
+RPT1186,41,Male,Azithromycin,Dizziness,2024-03-12,Not Recovered,USA
+RPT1187,79,Female,Omeprazole,Fever,2025-03-16,Recovered,South Africa
+RPT1188,41,Male,Ciprofloxacin,Diarrhea,2023-06-25,Unknown,Germany
+RPT1189,77,Other,Atorvastatin,Abdominal pain,2022-02-06,Not Recovered,UK
+RPT1190,64,Male,Amoxicillin,Headache,2022-11-06,Death,Japan
+RPT1191,84,Male,Amoxicillin,Diarrhea,2022-10-12,Death,Canada
+RPT1192,65,Female,Ibuprofen,Abdominal pain,2022-10-25,Recovered,Germany
+RPT1193,26,Male,Azithromycin,Fever,2024-04-08,Recovered,Canada
+RPT1194,47,Male,Paracetamol,Fever,2024-05-13,Unknown,France
+RPT1195,33,Female,Amoxicillin,Headache,2024-02-01,Unknown,India
+RPT1196,78,Other,Azithromycin,Headache,2024-11-24,Hospitalization,UK
+RPT1197,79,Other,Azithromycin,Fever,2021-07-16,Unknown,Brazil
+RPT1198,20,Female,Metformin,Abdominal pain,2020-10-14,Hospitalization,UK
+RPT1199,25,Female,Metformin,Nausea,2023-10-20,Not Recovered,Australia
+RPT1200,82,Female,Atorvastatin,Allergic reaction,2021-07-31,Recovered,South Africa
+RPT1201,68,Female,Omeprazole,Rash,2025-06-13,Not Recovered,Australia
+RPT1202,79,Female,Atorvastatin,Diarrhea,2025-05-26,Unknown,Australia
+RPT1203,89,Other,Lisinopril,Insomnia,2021-05-11,Not Recovered,France
+RPT1204,12,Other,Paracetamol,Diarrhea,2023-09-25,Not Recovered,Germany
+RPT1205,29,Female,Lisinopril,Insomnia,2023-04-24,Not Recovered,Brazil
+RPT1206,68,Male,Simvastatin,Abdominal pain,2021-02-02,Unknown,Brazil
+RPT1207,45,Female,Lisinopril,Insomnia,2022-07-07,Not Recovered,Australia
+RPT1208,28,Male,Ibuprofen,Headache,2024-08-12,Hospitalization,Canada
+RPT1209,76,Female,Lisinopril,Allergic reaction,2023-03-02,Unknown,France
+RPT1210,28,Female,Atorvastatin,Allergic reaction,2024-01-30,Not Recovered,Australia
+RPT1211,29,Other,Amoxicillin,Headache,2021-11-25,Unknown,India
+RPT1212,80,Male,Amoxicillin,Dizziness,2022-02-06,Death,South Africa
+RPT1213,61,Male,Metformin,Abdominal pain,2022-11-11,Hospitalization,Germany
+RPT1214,42,Other,Paracetamol,Dizziness,2021-09-15,Not Recovered,Japan
+RPT1215,49,Other,Paracetamol,Dizziness,2020-07-27,Death,India
+RPT1216,48,Other,Ibuprofen,Diarrhea,2022-03-16,Death,Canada
+RPT1217,10,Other,Atorvastatin,Fever,2020-07-06,Unknown,UK
+RPT1218,20,Male,Metformin,Diarrhea,2021-02-14,Death,UK
+RPT1219,66,Male,Simvastatin,Fever,2020-11-28,Hospitalization,India
+RPT1220,59,Female,Paracetamol,Rash,2022-10-14,Hospitalization,Australia
+RPT1221,32,Female,Amoxicillin,Insomnia,2020-11-12,Recovered,Japan
+RPT1222,40,Other,Lisinopril,Fever,2023-06-13,Hospitalization,USA
+RPT1223,51,Other,Lisinopril,Headache,2022-12-11,Death,USA
+RPT1224,16,Other,Metformin,Diarrhea,2022-04-10,Hospitalization,Canada
+RPT1225,25,Female,Atorvastatin,Abdominal pain,2021-12-01,Unknown,Australia
+RPT1226,69,Female,Atorvastatin,Insomnia,2024-09-04,Recovered,Brazil
+RPT1227,11,Female,Omeprazole,Rash,2023-09-03,Death,Brazil
+RPT1228,10,Female,Ciprofloxacin,Fever,2022-09-08,Recovered,Germany
+RPT1229,57,Female,Paracetamol,Rash,2022-01-16,Death,Japan
+RPT1230,21,Female,Atorvastatin,Abdominal pain,2022-01-31,Unknown,Japan
+RPT1231,78,Female,Amoxicillin,Dizziness,2023-09-17,Recovered,UK
+RPT1232,46,Other,Metformin,Allergic reaction,2022-04-19,Not Recovered,France
+RPT1233,41,Other,Simvastatin,Abdominal pain,2022-04-08,Death,Canada
+RPT1234,18,Other,Omeprazole,Fatigue,2020-08-15,Not Recovered,USA
+RPT1235,28,Other,Azithromycin,Abdominal pain,2024-05-05,Recovered,Canada
+RPT1236,57,Female,Ibuprofen,Rash,2022-03-18,Not Recovered,Brazil
+RPT1237,89,Male,Simvastatin,Headache,2023-04-16,Not Recovered,Brazil
+RPT1238,12,Female,Azithromycin,Diarrhea,2022-07-17,Recovered,India
+RPT1239,29,Male,Lisinopril,Headache,2024-02-28,Unknown,Germany
+RPT1240,33,Other,Ibuprofen,Rash,2020-12-06,Not Recovered,Japan
+RPT1241,63,Female,Paracetamol,Diarrhea,2023-11-18,Not Recovered,South Africa
+RPT1242,42,Other,Amoxicillin,Fatigue,2022-11-06,Unknown,Canada
+RPT1243,33,Female,Ibuprofen,Allergic reaction,2021-07-11,Not Recovered,Brazil
+RPT1244,84,Other,Ciprofloxacin,Insomnia,2025-05-22,Not Recovered,France
+RPT1245,81,Male,Azithromycin,Rash,2020-09-30,Not Recovered,UK
+RPT1246,45,Male,Paracetamol,Fever,2025-05-20,Hospitalization,USA
+RPT1247,47,Male,Ciprofloxacin,Rash,2023-05-23,Unknown,Germany
+RPT1248,34,Female,Lisinopril,Rash,2023-06-26,Not Recovered,France
+RPT1249,27,Male,Ciprofloxacin,Diarrhea,2023-03-20,Unknown,Germany
+RPT1250,75,Female,Omeprazole,Nausea,2023-09-02,Death,India
+RPT1251,63,Male,Omeprazole,Abdominal pain,2022-04-14,Death,South Africa
+RPT1252,44,Male,Metformin,Nausea,2024-10-31,Not Recovered,Brazil
+RPT1253,89,Female,Simvastatin,Fatigue,2023-03-23,Unknown,UK
+RPT1254,70,Female,Simvastatin,Fever,2023-06-14,Unknown,France
+RPT1255,50,Male,Paracetamol,Allergic reaction,2022-10-14,Unknown,Germany
+RPT1256,42,Female,Lisinopril,Dizziness,2021-07-10,Hospitalization,Japan
+RPT1257,77,Male,Atorvastatin,Fatigue,2023-08-04,Death,India
+RPT1258,42,Female,Omeprazole,Dizziness,2024-06-17,Unknown,Japan
+RPT1259,23,Other,Paracetamol,Dizziness,2022-10-02,Unknown,UK
+RPT1260,30,Other,Atorvastatin,Allergic reaction,2021-03-26,Hospitalization,France
+RPT1261,57,Other,Simvastatin,Headache,2021-12-10,Hospitalization,India
+RPT1262,29,Other,Metformin,Nausea,2020-11-03,Unknown,France
+RPT1263,17,Other,Ciprofloxacin,Rash,2020-06-20,Recovered,Brazil
+RPT1264,16,Male,Omeprazole,Insomnia,2022-10-14,Unknown,Australia
+RPT1265,76,Other,Paracetamol,Dizziness,2022-09-18,Unknown,India
+RPT1266,26,Other,Ibuprofen,Fever,2021-02-01,Hospitalization,Japan
+RPT1267,42,Other,Atorvastatin,Fatigue,2023-12-23,Hospitalization,UK
+RPT1268,57,Other,Ciprofloxacin,Headache,2022-11-05,Unknown,South Africa
+RPT1269,85,Female,Omeprazole,Dizziness,2022-08-23,Unknown,Brazil
+RPT1270,68,Male,Simvastatin,Headache,2021-01-29,Unknown,Australia
+RPT1271,31,Other,Lisinopril,Headache,2021-04-23,Hospitalization,South Africa
+RPT1272,39,Other,Atorvastatin,Dizziness,2024-04-06,Unknown,USA
+RPT1273,47,Other,Simvastatin,Diarrhea,2022-08-12,Unknown,Brazil
+RPT1274,60,Male,Omeprazole,Abdominal pain,2022-05-24,Not Recovered,UK
+RPT1275,63,Female,Atorvastatin,Fever,2023-05-10,Recovered,Germany
+RPT1276,17,Male,Ciprofloxacin,Rash,2023-01-16,Death,India
+RPT1277,36,Female,Omeprazole,Rash,2025-04-02,Recovered,France
+RPT1278,36,Other,Azithromycin,Fever,2023-10-24,Not Recovered,UK
+RPT1279,30,Other,Paracetamol,Diarrhea,2023-01-02,Death,India
+RPT1280,39,Male,Ciprofloxacin,Rash,2023-03-13,Unknown,South Africa
+RPT1281,37,Male,Atorvastatin,Headache,2022-12-31,Not Recovered,France
+RPT1282,73,Female,Lisinopril,Allergic reaction,2022-11-05,Unknown,Canada
+RPT1283,78,Female,Simvastatin,Fatigue,2023-03-23,Hospitalization,Japan
+RPT1284,70,Male,Ibuprofen,Nausea,2022-04-25,Not Recovered,USA
+RPT1285,57,Female,Simvastatin,Rash,2023-08-12,Hospitalization,Brazil
+RPT1286,28,Male,Atorvastatin,Fever,2022-08-30,Not Recovered,UK
+RPT1287,13,Female,Simvastatin,Allergic reaction,2023-05-08,Not Recovered,USA
+RPT1288,44,Male,Paracetamol,Dizziness,2020-11-10,Hospitalization,Germany
+RPT1289,73,Male,Omeprazole,Abdominal pain,2022-12-12,Death,India
+RPT1290,58,Male,Ibuprofen,Fever,2021-08-11,Recovered,India
+RPT1291,26,Female,Amoxicillin,Headache,2021-05-04,Unknown,UK
+RPT1292,53,Female,Atorvastatin,Abdominal pain,2021-05-13,Not Recovered,Australia
+RPT1293,39,Female,Metformin,Fatigue,2024-05-16,Unknown,Australia
+RPT1294,55,Male,Amoxicillin,Fatigue,2024-09-07,Hospitalization,Canada
+RPT1295,15,Female,Simvastatin,Diarrhea,2023-09-14,Unknown,Japan
+RPT1296,46,Female,Atorvastatin,Insomnia,2022-01-12,Hospitalization,France
+RPT1297,33,Male,Azithromycin,Diarrhea,2024-04-24,Unknown,Germany
+RPT1298,55,Other,Metformin,Allergic reaction,2024-03-27,Recovered,USA
+RPT1299,62,Male,Ibuprofen,Abdominal pain,2021-11-17,Recovered,Australia
+RPT1300,69,Female,Lisinopril,Insomnia,2022-12-22,Recovered,Canada
+RPT1301,72,Male,Azithromycin,Dizziness,2021-01-19,Recovered,Canada
+RPT1302,41,Other,Amoxicillin,Headache,2021-12-26,Recovered,UK
+RPT1303,42,Male,Omeprazole,Abdominal pain,2023-03-18,Recovered,Germany
+RPT1304,76,Female,Paracetamol,Diarrhea,2023-03-20,Hospitalization,South Africa
+RPT1305,27,Other,Lisinopril,Nausea,2023-02-05,Not Recovered,France
+RPT1306,34,Female,Azithromycin,Insomnia,2022-10-16,Unknown,Japan
+RPT1307,63,Other,Omeprazole,Insomnia,2023-12-09,Recovered,Brazil
+RPT1308,67,Other,Omeprazole,Headache,2021-11-15,Hospitalization,UK
+RPT1309,76,Male,Atorvastatin,Rash,2021-04-08,Hospitalization,France
+RPT1310,55,Male,Azithromycin,Fatigue,2025-05-28,Hospitalization,Brazil
+RPT1311,33,Female,Ibuprofen,Fatigue,2023-03-24,Not Recovered,Brazil
+RPT1312,41,Male,Simvastatin,Nausea,2022-02-25,Unknown,Germany
+RPT1313,56,Male,Metformin,Allergic reaction,2021-10-26,Not Recovered,Germany
+RPT1314,32,Other,Metformin,Allergic reaction,2025-01-20,Death,USA
+RPT1315,75,Male,Amoxicillin,Dizziness,2024-01-21,Hospitalization,Canada
+RPT1316,36,Other,Amoxicillin,Abdominal pain,2020-11-19,Death,France
+RPT1317,11,Other,Metformin,Fever,2020-09-17,Recovered,UK
+RPT1318,26,Other,Ibuprofen,Rash,2022-01-27,Recovered,India
+RPT1319,42,Female,Paracetamol,Diarrhea,2022-08-27,Not Recovered,UK
+RPT1320,18,Female,Ciprofloxacin,Fever,2021-11-06,Unknown,USA
+RPT1321,52,Female,Simvastatin,Fever,2022-11-11,Death,Japan
+RPT1322,57,Other,Paracetamol,Insomnia,2020-11-02,Unknown,Canada
+RPT1323,48,Female,Atorvastatin,Nausea,2021-09-23,Not Recovered,India
+RPT1324,51,Female,Ciprofloxacin,Fatigue,2021-05-31,Recovered,Australia
+RPT1325,35,Male,Ciprofloxacin,Dizziness,2022-09-05,Unknown,Japan
+RPT1326,59,Female,Azithromycin,Allergic reaction,2025-01-18,Unknown,Germany
+RPT1327,34,Female,Ibuprofen,Nausea,2022-02-22,Recovered,Brazil
+RPT1328,33,Other,Ibuprofen,Insomnia,2024-10-05,Death,Australia
+RPT1329,22,Other,Ciprofloxacin,Diarrhea,2020-07-03,Recovered,UK
+RPT1330,69,Other,Azithromycin,Dizziness,2025-04-06,Unknown,UK
+RPT1331,16,Other,Simvastatin,Insomnia,2022-03-12,Death,Germany
+RPT1332,66,Other,Ciprofloxacin,Fatigue,2025-05-14,Death,USA
+RPT1333,45,Other,Lisinopril,Fatigue,2023-10-04,Recovered,France
+RPT1334,54,Female,Amoxicillin,Fatigue,2023-06-15,Unknown,Australia
+RPT1335,29,Other,Amoxicillin,Nausea,2021-08-31,Not Recovered,Australia
+RPT1336,74,Other,Paracetamol,Nausea,2023-12-10,Unknown,South Africa
+RPT1337,17,Male,Atorvastatin,Allergic reaction,2020-07-31,Hospitalization,Japan
+RPT1338,25,Female,Amoxicillin,Allergic reaction,2022-05-28,Not Recovered,Canada
+RPT1339,23,Female,Omeprazole,Diarrhea,2020-11-28,Death,Japan
+RPT1340,85,Female,Paracetamol,Dizziness,2020-07-05,Not Recovered,France
+RPT1341,24,Other,Amoxicillin,Headache,2023-05-17,Death,UK
+RPT1342,75,Other,Atorvastatin,Headache,2024-09-13,Death,UK
+RPT1343,41,Other,Ibuprofen,Insomnia,2021-03-21,Not Recovered,UK
+RPT1344,72,Male,Ibuprofen,Fatigue,2025-03-03,Death,South Africa
+RPT1345,60,Other,Simvastatin,Dizziness,2024-07-29,Death,UK
+RPT1346,34,Male,Ciprofloxacin,Fever,2023-08-03,Hospitalization,France
+RPT1347,67,Female,Lisinopril,Nausea,2022-05-03,Unknown,Germany
+RPT1348,72,Other,Ibuprofen,Abdominal pain,2024-11-29,Unknown,Canada
+RPT1349,71,Male,Azithromycin,Rash,2023-12-28,Hospitalization,France
+RPT1350,31,Male,Amoxicillin,Diarrhea,2020-09-13,Not Recovered,Canada
+RPT1351,67,Other,Azithromycin,Fatigue,2022-09-10,Recovered,France
+RPT1352,67,Female,Atorvastatin,Fatigue,2022-03-21,Recovered,UK
+RPT1353,58,Female,Ibuprofen,Fatigue,2024-10-13,Recovered,Germany
+RPT1354,61,Female,Lisinopril,Nausea,2021-12-31,Hospitalization,Australia
+RPT1355,51,Male,Atorvastatin,Nausea,2022-10-17,Hospitalization,Japan
+RPT1356,79,Male,Omeprazole,Rash,2023-11-05,Death,Brazil
+RPT1357,24,Male,Omeprazole,Fever,2022-08-29,Recovered,Germany
+RPT1358,63,Male,Azithromycin,Dizziness,2023-10-14,Not Recovered,Australia
+RPT1359,69,Female,Ciprofloxacin,Fatigue,2020-06-19,Not Recovered,USA
+RPT1360,17,Other,Paracetamol,Headache,2025-05-13,Recovered,France
+RPT1361,62,Male,Ciprofloxacin,Allergic reaction,2022-08-12,Recovered,USA
+RPT1362,69,Male,Simvastatin,Headache,2021-03-02,Recovered,Australia
+RPT1363,14,Female,Ciprofloxacin,Insomnia,2025-01-06,Hospitalization,Germany
+RPT1364,77,Other,Simvastatin,Headache,2020-11-19,Hospitalization,France
+RPT1365,15,Other,Simvastatin,Insomnia,2023-02-05,Hospitalization,Brazil
+RPT1366,56,Female,Lisinopril,Abdominal pain,2023-09-14,Unknown,UK
+RPT1367,64,Female,Ibuprofen,Allergic reaction,2020-08-29,Not Recovered,France
+RPT1368,49,Other,Lisinopril,Headache,2024-09-29,Not Recovered,France
+RPT1369,61,Male,Simvastatin,Abdominal pain,2025-04-01,Death,Germany
+RPT1370,25,Other,Atorvastatin,Diarrhea,2024-04-17,Hospitalization,Germany
+RPT1371,22,Female,Omeprazole,Dizziness,2024-09-15,Unknown,Australia
+RPT1372,39,Male,Simvastatin,Abdominal pain,2024-02-29,Unknown,India
+RPT1373,28,Male,Lisinopril,Dizziness,2021-09-15,Not Recovered,France
+RPT1374,26,Female,Atorvastatin,Headache,2024-04-28,Hospitalization,Japan
+RPT1375,72,Female,Lisinopril,Fever,2021-10-16,Death,France
+RPT1376,28,Female,Ciprofloxacin,Abdominal pain,2024-04-08,Hospitalization,Australia
+RPT1377,67,Other,Amoxicillin,Allergic reaction,2025-02-12,Recovered,Canada
+RPT1378,64,Other,Azithromycin,Headache,2021-07-12,Hospitalization,USA
+RPT1379,71,Male,Paracetamol,Fatigue,2024-05-28,Recovered,UK
+RPT1380,32,Female,Lisinopril,Nausea,2021-12-26,Recovered,India
+RPT1381,18,Male,Paracetamol,Abdominal pain,2025-01-28,Death,Brazil
+RPT1382,21,Male,Metformin,Allergic reaction,2024-08-02,Not Recovered,Brazil
+RPT1383,10,Male,Lisinopril,Diarrhea,2023-12-24,Hospitalization,Brazil
+RPT1384,67,Male,Amoxicillin,Fatigue,2020-09-27,Recovered,Germany
+RPT1385,10,Female,Paracetamol,Diarrhea,2025-05-31,Hospitalization,Brazil
+RPT1386,43,Male,Simvastatin,Headache,2024-09-28,Not Recovered,UK
+RPT1387,57,Female,Lisinopril,Nausea,2024-07-21,Not Recovered,USA
+RPT1388,10,Female,Ibuprofen,Abdominal pain,2021-10-09,Unknown,Brazil
+RPT1389,25,Other,Azithromycin,Abdominal pain,2021-05-05,Not Recovered,France
+RPT1390,70,Female,Amoxicillin,Fever,2022-11-08,Death,France
+RPT1391,73,Other,Paracetamol,Fever,2023-01-02,Recovered,Germany
+RPT1392,72,Female,Amoxicillin,Headache,2020-09-05,Unknown,UK
+RPT1393,78,Female,Atorvastatin,Headache,2021-07-04,Death,USA
+RPT1394,31,Female,Azithromycin,Nausea,2025-05-14,Hospitalization,India
+RPT1395,76,Other,Simvastatin,Fever,2022-03-23,Recovered,Australia
+RPT1396,85,Other,Lisinopril,Allergic reaction,2024-10-02,Not Recovered,USA
+RPT1397,35,Male,Lisinopril,Allergic reaction,2021-05-27,Recovered,Australia
+RPT1398,25,Other,Lisinopril,Nausea,2023-09-08,Hospitalization,Canada
+RPT1399,60,Other,Azithromycin,Allergic reaction,2025-03-28,Unknown,Australia
+RPT1400,66,Other,Ibuprofen,Insomnia,2023-08-02,Unknown,Japan
+RPT1401,38,Other,Metformin,Dizziness,2020-10-01,Unknown,France
+RPT1402,87,Male,Omeprazole,Nausea,2022-12-17,Not Recovered,UK
+RPT1403,78,Other,Ciprofloxacin,Nausea,2024-09-28,Death,South Africa
+RPT1404,56,Female,Paracetamol,Rash,2021-02-15,Death,Germany
+RPT1405,71,Female,Ibuprofen,Fatigue,2025-01-31,Recovered,Japan
+RPT1406,78,Other,Simvastatin,Fatigue,2023-04-03,Not Recovered,Australia
+RPT1407,85,Other,Paracetamol,Insomnia,2023-09-23,Unknown,Brazil
+RPT1408,25,Female,Lisinopril,Fever,2021-01-19,Unknown,UK
+RPT1409,57,Female,Amoxicillin,Headache,2023-03-25,Hospitalization,Japan
+RPT1410,48,Male,Simvastatin,Headache,2021-07-05,Hospitalization,Germany
+RPT1411,42,Female,Paracetamol,Diarrhea,2021-12-25,Unknown,France
+RPT1412,32,Female,Lisinopril,Insomnia,2021-03-03,Unknown,UK
+RPT1413,19,Other,Paracetamol,Nausea,2025-04-07,Not Recovered,Germany
+RPT1414,78,Female,Amoxicillin,Insomnia,2022-01-10,Death,Canada
+RPT1415,43,Male,Lisinopril,Insomnia,2023-11-26,Hospitalization,Canada
+RPT1416,61,Female,Metformin,Insomnia,2021-06-30,Death,Germany
+RPT1417,19,Other,Ibuprofen,Fatigue,2023-06-30,Not Recovered,Japan
+RPT1418,28,Other,Atorvastatin,Insomnia,2023-12-08,Unknown,UK
+RPT1419,67,Female,Ciprofloxacin,Dizziness,2022-07-28,Death,Japan
+RPT1420,10,Other,Azithromycin,Headache,2024-05-31,Unknown,India
+RPT1421,78,Male,Ciprofloxacin,Diarrhea,2024-02-28,Unknown,Australia
+RPT1422,13,Male,Simvastatin,Dizziness,2024-10-02,Recovered,India
+RPT1423,25,Female,Ciprofloxacin,Diarrhea,2023-01-14,Death,Canada
+RPT1424,33,Female,Lisinopril,Rash,2021-03-10,Death,France
+RPT1425,89,Female,Metformin,Diarrhea,2024-04-17,Unknown,USA
+RPT1426,11,Other,Atorvastatin,Headache,2024-01-18,Not Recovered,Australia
+RPT1427,41,Male,Ibuprofen,Headache,2024-09-10,Recovered,Canada
+RPT1428,33,Male,Ibuprofen,Insomnia,2025-04-13,Unknown,Japan
+RPT1429,21,Other,Amoxicillin,Abdominal pain,2023-05-27,Hospitalization,Japan
+RPT1430,59,Male,Azithromycin,Rash,2022-06-10,Hospitalization,Japan
+RPT1431,44,Female,Paracetamol,Nausea,2025-01-27,Recovered,France
+RPT1432,42,Female,Metformin,Allergic reaction,2023-01-21,Not Recovered,India
+RPT1433,42,Female,Paracetamol,Diarrhea,2023-02-17,Unknown,USA
+RPT1434,70,Male,Atorvastatin,Abdominal pain,2022-09-01,Death,Japan
+RPT1435,60,Female,Ciprofloxacin,Insomnia,2025-03-25,Recovered,South Africa
+RPT1436,52,Other,Ibuprofen,Fatigue,2021-02-19,Not Recovered,Australia
+RPT1437,21,Other,Atorvastatin,Nausea,2024-09-18,Death,UK
+RPT1438,76,Male,Ciprofloxacin,Fever,2020-06-16,Hospitalization,South Africa
+RPT1439,74,Other,Ibuprofen,Abdominal pain,2021-07-06,Hospitalization,USA
+RPT1440,42,Other,Ciprofloxacin,Fatigue,2022-10-07,Death,France
+RPT1441,49,Male,Azithromycin,Rash,2023-04-25,Recovered,USA
+RPT1442,83,Female,Metformin,Insomnia,2022-09-08,Hospitalization,UK
+RPT1443,52,Female,Simvastatin,Nausea,2024-08-06,Unknown,Australia
+RPT1444,53,Female,Atorvastatin,Nausea,2024-06-05,Death,UK
+RPT1445,38,Male,Atorvastatin,Nausea,2022-09-17,Death,Germany
+RPT1446,22,Other,Omeprazole,Rash,2023-11-28,Hospitalization,Australia
+RPT1447,21,Female,Lisinopril,Diarrhea,2024-04-01,Recovered,USA
+RPT1448,55,Female,Azithromycin,Fever,2023-03-28,Unknown,Japan
+RPT1449,11,Male,Azithromycin,Rash,2023-09-06,Recovered,USA
+RPT1450,44,Female,Paracetamol,Allergic reaction,2024-09-16,Not Recovered,USA
+RPT1451,17,Male,Ciprofloxacin,Fever,2025-03-12,Not Recovered,Australia
+RPT1452,35,Other,Lisinopril,Headache,2020-09-18,Hospitalization,Germany
+RPT1453,83,Male,Metformin,Insomnia,2023-10-09,Hospitalization,USA
+RPT1454,43,Male,Metformin,Rash,2021-02-16,Hospitalization,South Africa
+RPT1455,16,Male,Azithromycin,Fatigue,2020-11-18,Not Recovered,Canada
+RPT1456,77,Male,Metformin,Fever,2023-01-12,Recovered,Brazil
+RPT1457,67,Other,Omeprazole,Allergic reaction,2022-06-25,Recovered,Brazil
+RPT1458,84,Other,Atorvastatin,Headache,2021-05-03,Hospitalization,USA
+RPT1459,38,Female,Amoxicillin,Diarrhea,2022-01-11,Unknown,South Africa
+RPT1460,45,Other,Simvastatin,Fatigue,2024-08-01,Recovered,Japan
+RPT1461,30,Other,Paracetamol,Fever,2021-04-04,Not Recovered,France
+RPT1462,45,Female,Ciprofloxacin,Insomnia,2021-03-27,Death,France
+RPT1463,19,Other,Simvastatin,Fatigue,2025-02-14,Death,Australia
+RPT1464,82,Male,Ciprofloxacin,Headache,2024-01-02,Death,Brazil
+RPT1465,33,Male,Ibuprofen,Fatigue,2022-04-23,Unknown,USA
+RPT1466,73,Female,Simvastatin,Dizziness,2020-09-29,Hospitalization,France
+RPT1467,58,Female,Amoxicillin,Abdominal pain,2024-01-20,Not Recovered,USA
+RPT1468,45,Female,Azithromycin,Diarrhea,2023-04-14,Unknown,Australia
+RPT1469,33,Male,Omeprazole,Headache,2021-09-23,Not Recovered,Brazil
+RPT1470,32,Other,Atorvastatin,Fatigue,2021-03-01,Not Recovered,UK
+RPT1471,71,Male,Atorvastatin,Abdominal pain,2023-01-26,Hospitalization,Canada
+RPT1472,46,Female,Omeprazole,Abdominal pain,2020-07-26,Death,Canada
+RPT1473,21,Other,Lisinopril,Fatigue,2024-12-04,Hospitalization,France
+RPT1474,64,Other,Ibuprofen,Insomnia,2021-05-26,Unknown,Canada
+RPT1475,22,Male,Ciprofloxacin,Dizziness,2025-04-17,Unknown,UK
+RPT1476,32,Female,Amoxicillin,Rash,2020-11-28,Unknown,USA
+RPT1477,39,Male,Metformin,Dizziness,2021-12-01,Hospitalization,Australia
+RPT1478,26,Other,Simvastatin,Fatigue,2022-05-22,Not Recovered,UK
+RPT1479,71,Male,Ibuprofen,Diarrhea,2020-08-26,Not Recovered,Australia
+RPT1480,22,Male,Simvastatin,Rash,2023-02-19,Recovered,Australia
+RPT1481,68,Female,Amoxicillin,Headache,2022-02-23,Unknown,Brazil
+RPT1482,28,Female,Paracetamol,Dizziness,2020-06-18,Not Recovered,USA
+RPT1483,58,Other,Paracetamol,Fatigue,2022-05-31,Recovered,South Africa
+RPT1484,21,Male,Ibuprofen,Dizziness,2024-01-03,Not Recovered,Canada
+RPT1485,70,Male,Azithromycin,Rash,2023-07-19,Unknown,South Africa
+RPT1486,28,Male,Amoxicillin,Allergic reaction,2021-12-28,Death,Brazil
+RPT1487,85,Other,Amoxicillin,Fever,2024-10-03,Unknown,Australia
+RPT1488,18,Other,Omeprazole,Dizziness,2021-09-25,Hospitalization,France
+RPT1489,80,Female,Azithromycin,Headache,2024-12-12,Not Recovered,Canada
+RPT1490,37,Female,Ciprofloxacin,Headache,2021-01-26,Not Recovered,Canada
+RPT1491,87,Female,Ciprofloxacin,Nausea,2024-09-18,Hospitalization,USA
+RPT1492,61,Male,Metformin,Dizziness,2023-04-02,Hospitalization,Germany
+RPT1493,25,Male,Atorvastatin,Fever,2021-09-21,Death,India
+RPT1494,78,Female,Paracetamol,Insomnia,2020-12-08,Not Recovered,India
+RPT1495,21,Male,Ciprofloxacin,Abdominal pain,2024-10-22,Not Recovered,India
+RPT1496,34,Female,Azithromycin,Fever,2021-08-28,Death,Germany
+RPT1497,61,Other,Amoxicillin,Abdominal pain,2024-12-04,Recovered,USA
+RPT1498,62,Female,Ciprofloxacin,Abdominal pain,2023-11-11,Death,Germany
+RPT1499,32,Other,Amoxicillin,Allergic reaction,2023-03-12,Unknown,India
