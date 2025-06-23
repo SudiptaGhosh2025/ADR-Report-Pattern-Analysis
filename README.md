@@ -7,8 +7,8 @@ This project analyzes patterns in Adverse Drug Reaction (ADR) reports submitted 
 
 - [Objective](#objective)
 - [Dataset](#dataset)
-- [Tools & Libraries](#Tools&Libraries)
-- [Key Steps](#KeySteps)
+- [Tools & Libraries](#Tools & Libraries)
+- [Key Steps](#Key Steps)
 Tools & Libraries
 Key Steps
 Sample Visualizations
