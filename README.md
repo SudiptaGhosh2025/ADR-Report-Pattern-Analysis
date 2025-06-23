@@ -89,18 +89,17 @@ Note: A sample dataset is included in the /data folder.
 ![Heat Map](outputs/improved_adr_heatmap_country_year.png)
 - 🚻 Gender-wise ADR Distribution
 ![Gender-wise ADR Distribution](outputs/gender_distribution.png)
-(All charts available in the /outputs folder and notebooks)
+
 
 ---
 
 ## Findings
 
-- A steady increase in ADR reporting over 5 years
-- Female patients report slightly more ADRs compared to males
+- A steady increase in ADR reporting till 2023 and slightly decrease in 2024
+- Male patients report slightly more ADRs compared to Females
 - Certain antibiotics and NSAIDs are repeatedly flagged
-- Hospitalizations are most common in age groups over 60
 
-(Findings will vary depending on dataset)
+
 
 ---
 
